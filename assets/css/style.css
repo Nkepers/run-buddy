@@ -79,6 +79,7 @@ section {
     position: relative;
 }
 
+/*    Hero    Style    End   */
 
 .hero-form {
     color: #024e76;
@@ -110,7 +111,7 @@ section {
     margin-bottom: 15px;
 }
 
-.radio-button {
+.hero-form label {
     margin: 0 5px;
 }
 
